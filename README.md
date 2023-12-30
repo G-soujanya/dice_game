@@ -1,1 +1,1 @@
-# dice_game
+https://g-soujanya.github.io/dice_game/
